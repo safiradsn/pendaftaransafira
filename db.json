@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "safira",
+      "jenis_kelamin": "perempuan",
+      "Agama": "Islam",
+      "Tanggal_Lahir": "27-07-03",
+      "Telepon": "085712268892",
+      "Email": "safiradsn@gmail.com",
+      "Alamat": "Purbalingga"
+    },
+    {
+      "name": "Salsa",
+      "jenis_kelamin": "perempuan",
+      "Agama": "Islam",
+      "Tanggal_Lahir": "27-07-03",
+      "Telepon": "085747456274",
+      "Email": "salsa@gmail.com",
+      "Alamat": "jl.bulustalan 1 no.27",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "nabila",
+      "jenis_kelamin": "laki-laki",
+      "Agama": "Islam",
+      "Tanggal_Lahir": "27-07-03",
+      "Telepon": "085712268892",
+      "Email": "nabila@gmail.com",
+      "Alamat": "Purbalingga"
+    },
+    {
+      "name": "sasa",
+      "jenis_kelamin": "perempuan",
+      "Agama": "islam",
+      "Tanggal_Lahir": "27-07-03",
+      "Telepon": "085747456274",
+      "Email": "sasa@gmail.com",
+      "Alamat": "jl.bulustalan 1 no.27",
+      "id": 4
+    }
+  ]
+}
